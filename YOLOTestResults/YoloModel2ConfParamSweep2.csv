@@ -1,10 +1,10 @@
-Video,car counts,conf_thres
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,417,0.9981
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,408,0.9982
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,400,0.9983
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,394,0.9984
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,389,0.9985
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,383,0.9986
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,377,0.9987
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,368,0.9988
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,354,0.9989
+Video,car counts,conf_thres,
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,417,0.9981,
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,408,0.9982,-9
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,400,0.9983,-8
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,394,0.9984,-6
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,389,0.9985,-5
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,383,0.9986,-6
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,377,0.9987,-6
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,368,0.9988,-9
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529_crop.mp4,354,0.9989,-14
