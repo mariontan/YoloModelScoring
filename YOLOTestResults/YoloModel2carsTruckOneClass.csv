@@ -1,11 +1,9 @@
 Videos,ActualCars,ModelCountCars,conf_thres
-D:\Ivan\Test_data\Katipunan\test/VID_20200714_161511.mp4,793,782,0.75
 D:\Ivan\Test_data\Katipunan\test/VID_20200509_161540.mp4,415,427,0.75
-D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529.mp4,483,497,0.75
-D:\Ivan\Test_data\Katipunan\test/VID_20200717_161614.mp4,834,889,0.75
-D:\Ivan\Test_data\Katipunan\test/VID_20200515_161547.mp4,402,486,0.75
-D:\Ivan\Test_data\Katipunan\test/VID_20200521_161542.mp4,571,572,0.75
 D:\Ivan\Test_data\Katipunan\test/VID_20200512_161525.mp4,436,413,0.75
+D:\Ivan\Test_data\Katipunan\test/VID_20200515_161547.mp4,402,486,0.75
+D:\Ivan\Test_data\Katipunan\test/VID_20200518_161529.mp4,483,497,0.75
+D:\Ivan\Test_data\Katipunan\test/VID_20200521_161542.mp4,571,572,0.75
 D:\Ivan\Test_data\Katipunan\test/VID_20200530_161507.mp4,611,596,0.75
 D:/Ivan/Test_data/Katipunan/test/VID_20200605_161506.mp4,795,779,0.75
 D:/Ivan/Test_data/Katipunan/test/VID_20200611_161534.mp4,927,908,0.75
@@ -14,6 +12,8 @@ D:\Ivan\Test_data\Katipunan\test/VID_20200617_161508.mp4,1214,815,0.75
 D:/Ivan/Test_data/Katipunan/test/VID_20200620_161507.mp4,912,901,0.75
 D:\Ivan\Test_data\Katipunan\test/VID_20200705_161518.mp4,777,773,0.75
 D:\Ivan\Test_data\Katipunan\test/VID_20200708_161553.mp4,830,791,0.75
+D:\Ivan\Test_data\Katipunan\test/VID_20200714_161511.mp4,793,782,0.75
+D:\Ivan\Test_data\Katipunan\test/VID_20200717_161614.mp4,834,889,0.75
 D:\Ivan\Test_data\Katipunan\test/VID_20200720_161556.mp4,794,774,0.75
 D:\Ivan\Test_data\Katipunan\test/VID_20200723_161518.mp4,798,771,0.75
 D:\Ivan\Test_data\Katipunan\test/VID_20200726_161509.mp4,738,710,0.75
