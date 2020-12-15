@@ -1,0 +1,2 @@
+D:\Ivan\Test_data\Katipunan\20fps_test/VID_20200509_161540.mp4,414,0.85
+D:\Ivan\Test_data\Katipunan\20fps_test/VID_20200509_161540.mp4,701,0.8
